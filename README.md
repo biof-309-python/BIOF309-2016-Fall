@@ -15,7 +15,7 @@ Instructors:
 
 First class: 14th September 2016
 
-Final class: 12th May 2016
+Final class: 14th December 2016
 
 *This document is subject to revision. Last revised 11th September 2016.*
 
