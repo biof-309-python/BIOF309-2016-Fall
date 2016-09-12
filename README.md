@@ -64,6 +64,7 @@ If you would like a refresher on the basics, the following resources may be usef
 
 * [Python for Everybody: Exploring Data In Python 3 (ebook freely available from the author)](https://www.pythonlearn.com/book.php) by Charles Severance
 * [Python for Biologists](http://pythonforbiologists.com/) by Martin Jones; an archived PDF may be found [here](http://bit.ly/nih-pythons)
+* [A Whilrwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas
 * [Learn python the hard way (ebook freely available from the author)](http://learnpythonthehardway.org/book/) by Zed A. Shaw; a video course is also [available](http://learnpythonthehardway.org/).
 * [Think python (ebook freely available from the author)](http://www.greenteapress.com/thinkpython/thinkpython.html) by Allen B. Downey.
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) by David Beazy
