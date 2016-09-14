@@ -131,13 +131,13 @@ Course Materials
 ----------------
 
 Course materials are available from 
-`the github repository <https://github.com/burkesquires/biof309>`_.
+`the github repository <https://github.com/biof-309-python/BIOF309-2016-Fall>`.
 
 
 Schedule
 --------
 
-**Week 1 (Sept 14 2016):** Course overview, troubleshooting software installation, Jupyter notebook, an introduction to programming, and why python. What can you do with python?
+**Week 1 (Sept 14 2016):** Course overview, troubleshooting software installation, Jupyter notebook, an introduction to programming, what can you do with python and finally and why python?
 
 **Week 2 (Sept 21 2016):** 
 5:30 - 6:00: How does a computer understand a program?
