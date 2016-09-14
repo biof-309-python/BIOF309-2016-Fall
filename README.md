@@ -1,19 +1,21 @@
+# BIOF309-2016-Fall
+
 Syllabus
 ========
 
 **BIOF309 - Introduction to Python Programming**
 
+
 **Fall 2016**
 
-**Wednesday Section**
 
-Instructor:
+Instructors:
 
 * R. Burke Squires (richard.squires@nih.gov)
 
 First class: 14th September 2016
 
-Final class: 12th May 2016
+Final class: 14th December 2016
 
 *This document is subject to revision. Last revised 11th September 2016.*
 
@@ -27,7 +29,7 @@ By the end of this course you should be able to:
 
 1. Look at a task and determine if you can or should automate it
 2. Create working python programs using the basic features of the python language 
-3. Understand the difference between different sets of objects in the python programming language (list, dictionary)
+3. Understand the difference between different sets of objects in the python programmign language (list, dictionary)
 4. Do basic data analysis with python using numpy, pandas
 5. Plot data using python
 6. Write bioinformatics programs utilizing the biopython package
@@ -35,7 +37,7 @@ By the end of this course you should be able to:
 Logistics
 ---------
 
-This is a 13 week course starting on the 14th September 2016, and finishing on December 14th 2016. Classes will take place between 5:30pm and 7:30pm each Wednesday in the Rathskeller of Building 60.
+This is a 15 week course starting on the 14th September 2016, and finishing on 12th May 2016. Classes will take place between 5:30pm and 7:30pm each Wednesday in the Rathskeller of building ???, room B1C207 within the FAES Academic Center.
 
 Attendance in class is strongly recommended; however, we realize other commitments will occasionally prevent attendance. Class materials will generally be sent to all learners via email.
 
@@ -49,7 +51,7 @@ Important dates:
 Required Materials
 ------------------
 
-**Each student is encouraged to bring their own laptop to each class.** For the course, we will use Python 3. Any python installation should work, but you must be able to install packages. The [Anaconda Scientific Python Distribution](https://www.continuum.io/downloads) from Continuum Analytics will likely be the easiest approach to configuring python if you do not already have python installed. The Anaconda installer will automatically install many of the packages we will use during the course.
+**Each student is encouraged to bring their own laptop to each class.** For the course, we will use Python 3. Any python installation should work, but you must be able to install packages. The Anaconda Scientific Python Distribution from Continuum Analytics will likely be the easiest approach to configuring python if you do not already have python installed. The Anaconda installer will automatically install many of the packages we will use during the course.
 
 Recommended Books
 -----------------
@@ -62,6 +64,7 @@ If you would like a refresher on the basics, the following resources may be usef
 
 * [Python for Everybody: Exploring Data In Python 3 (ebook freely available from the author)](https://www.pythonlearn.com/book.php) by Charles Severance
 * [Python for Biologists](http://pythonforbiologists.com/) by Martin Jones; an archived PDF may be found [here](http://bit.ly/nih-pythons)
+* [A Whilrwind Tour of Python](http://www.oreilly.com/programming/free/a-whirlwind-tour-of-python.csp) by Jake VanderPlas
 * [Learn python the hard way (ebook freely available from the author)](http://learnpythonthehardway.org/book/) by Zed A. Shaw; a video course is also [available](http://learnpythonthehardway.org/).
 * [Think python (ebook freely available from the author)](http://www.greenteapress.com/thinkpython/thinkpython.html) by Allen B. Downey.
 * [Python Cookbook](http://chimera.labs.oreilly.com/books/1230000000393/index.html) by David Beazy
@@ -73,9 +76,7 @@ Assignments and Grading
 
 The emphasis of the course is on learning and mastering the skills covered. It is my hope that everyone will be able to complete the assignments and project. If some of the material appears unclear please ask for clarification.
 
-Assignments will be uploaded to the [DropItTo.me](http://www.DropItTo.me) website. Links will be given in each class material.
-
-Grading __assignments__ will follow the following rubric:
+Grading assignments will follow the following rubric:
 
 * Program runs, produces correct result, contains useful comments, meaningful variable names, follows coding conventions: A+
 * Program runs, produces correct result: A
@@ -84,7 +85,7 @@ Grading __assignments__ will follow the following rubric:
 * Program does not run: Incomplete (I)
 
 
-Grading the __final project__ will follow the following rubric:
+Grading the final project will follow the following rubric:
 
 * Project description / Specification
 
@@ -129,96 +130,75 @@ Grading the __final project__ will follow the following rubric:
 Course Materials
 ----------------
 
-Course materials are available from the github repository: [https://github.com/biof-309-python/BIOF309-2016-Fall](https://github.com/biof-309-python/BIOF309-2016-Fall).
+Course materials are available from 
+`the github repository <https://github.com/biof-309-python/BIOF309-2016-Fall>`.
 
 
 Schedule
 --------
 
-**Week 1 (Sept 14 2016):** 
-
-* Intro survey
-* Course overview
-* An introduction to programming
-* Why python
-* What can you do with python?
-* Troubleshooting software installation
-* Introduction to Jupyter notebook
+**Week 1 (Sept 14 2016):** Course overview, troubleshooting software installation, Jupyter notebook, an introduction to programming, what can you do with python and finally and why python?
 
 **Week 2 (Sept 21 2016):** 
+5:30 - 6:00: How does a computer understand a program?
+6:00 - 6:30: Introduction to Linux, shell
+6:30 - 7:30: Variables and operations in python
+Program: "Hello world" interactive
+Homework: 
 
-* 5:30 - 6:00: How does a computer understand a program?
-* 6:00 - 6:30: Introduction to Linux, shell
-* 6:30 - 7:30: Variables and operations in python
-* Program: "Hello world" interactive
-* Homework: Submit the hello world program 
-
-**Week 3 (Sept 28 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Printing and manipulating text
+**Week 3 (Sept 28 2016):** 
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 4 (Oct 5 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Reading and writing files
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 5 (Oct 12 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Lists and loops
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 6 (Oct 19 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Writing functions
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 7 (Oct 26 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Conditional tests
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 8 (Nov 2 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Data analysis with pandas
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 9 (Nov 9 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Dictionaries
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 10 (Nov 16 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Debugging
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 11 (Nov 23 2016):**
 Thanksgiving week.
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Regular expressions
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 12 (Nov 30 2016):**
-
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Biopython
-* Exit survey
+5:30 - 6:00: ???
+6:00 - 6:30: Review Homework
+6:30 - 7:30: ???
 
 **Week 13 (Dec 7 2016):**
-
-* Project presentations (Presentations will be randomly assigned)
+Project presentations (Randomly assigned)
 
 **Week 14 (Dec 14 2016):**
-
-* Project presentations (Presentations will be randomly assigned)
+Project presentations (Randomly assigned)
