@@ -9,7 +9,7 @@ Syllabus
 
 Instructor:
 
-* R. Burke Squires (richard.squires@nih.gov)
+* R. Burke Squires (richard.squires at nih.gov)
 
 First class: 14th September 2016
 
