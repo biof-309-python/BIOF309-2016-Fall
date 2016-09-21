@@ -144,62 +144,71 @@ Schedule
 * What can you do with python?
 * Troubleshooting software installation
 * Introduction to Jupyter notebook
-
-**Week 2 (Sept 21 2016):** 
-
-* 5:30 - 6:00: How does a computer understand a program?
-* 6:00 - 6:30: Introduction to Linux, shell
-* 6:30 - 7:30: Variables and operations in python
 * Program: "Hello world" interactive
 * Homework: Submit the hello world program 
 
+**Week 2 (Sept 21 2016):** 
+
+* 5:30 - 6:00: Quick review, making sure python and jupyter notebooks are installed
+* 6:00 - 6:30: Review homework, debugging
+* 6:30 - 7:30: Printing and manipulating text
+* Homework: Write a program to calculate GC percentage
+
 **Week 3 (Sept 28 2016):**
 
-* 5:30 - 6:00: Intro and review
+* 5:30 - 6:00: Introduction to Linux, shell, DOS commands
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Printing and manipulating text
+* 6:30 - 7:30: Reading and writing files
+* Homework: 
 
 **Week 4 (Oct 5 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Reading and writing files
+* 6:30 - 7:30: Lists and loops
+* Homework: 
 
 **Week 5 (Oct 12 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Lists and loops
+* 6:30 - 7:30: Writing functions
+* Homework: 
 
 **Week 6 (Oct 19 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Writing functions
+* 6:30 - 7:30: Conditional tests
+* Homework: 
 
 **Week 7 (Oct 26 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Conditional tests
+* 6:30 - 7:30: Data analysis with pandas
+* Homework: 
 
 **Week 8 (Nov 2 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Data analysis with pandas
+* 6:30 - 7:30: Dictionaries
+* Homework: 
 
 **Week 9 (Nov 9 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Dictionaries
+* 6:30 - 7:30: PyCharm, debugging
+* Homework: 
 
 **Week 10 (Nov 16 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Debugging
+* 6:30 - 7:30: Biopython
+* Homework: 
 
 **Week 11 (Nov 23 2016):**
 Thanksgiving week.
@@ -207,12 +216,13 @@ Thanksgiving week.
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
 * 6:30 - 7:30: Regular expressions
+* Homework: 
 
 **Week 12 (Nov 30 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Biopython
+* 6:30 - 7:30: ???
 * Exit survey
 
 **Week 13 (Dec 7 2016):**
