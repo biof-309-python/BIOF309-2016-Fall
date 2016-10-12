@@ -213,16 +213,13 @@ Schedule
 **Week 11 (Nov 23 2016):**
 Thanksgiving week.
 
-* 5:30 - 6:00: Intro and review
-* 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Regular expressions
-* Homework: 
+* No class
 
 **Week 12 (Nov 30 2016):**
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: ???
+* 6:30 - 7:30: Regular expressions
 * Exit survey
 
 **Week 13 (Dec 7 2016):**
