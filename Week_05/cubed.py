@@ -1,5 +1,10 @@
 # Recall that the power function we used in class is:
 
+# this code is not working
+
+# TODO add new capability
+
+
 def power(x, y):
     value = int(x)**int(y)
     return value
