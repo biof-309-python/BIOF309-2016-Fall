@@ -219,12 +219,12 @@ Thanksgiving week.
 
 * 5:30 - 6:00: Intro and review
 * 6:00 - 6:30: Review Homework
-* 6:30 - 7:30: Regular expressions
-* Exit survey
+* 6:30 - 7:30: A brief look at: version control, testing, command line arguments, and regular expressions
 
 **Week 13 (Dec 7 2016):**
 
 * Project presentations (Presentations will be randomly assigned)
+* Exit survey
 
 **Week 14 (Dec 14 2016):**
 
